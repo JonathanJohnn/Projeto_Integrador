@@ -1,0 +1,21 @@
+.imgPerfil{
+    display: none;
+}
+
+.fotoPerfil{
+    width: 400px;
+    aspect-ratio: 16/9;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #8C52FF;
+    border: 2px dashed currentColor;
+    cursor: pointer;
+    outline: none;
+    overflow: hidden;
+}
+
+.foto{
+    max-width: 100%;
+}
